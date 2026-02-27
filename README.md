@@ -1,0 +1,68 @@
+# keshi – beside you
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It's just you and I,
+and no other guys
+We got no interruptions
+and we both feelin' the vibe
+Say I'm not your type
+But I know what's on your mind
+We can talk about nothin' or
+we can see what it's like
+Don't lie, baby don't lie
+His love never felt right
+Switch sides and I'm beside you
+If you say it's alright
+(Don't lie, baby don't lie)
+Way too many heads,
+need a steady view
+Smokin' cigarettes
+at the rendezvous
+Never meant to cross you
+But my jaw hit the floor
+with the one, two
+Think I want you
+You say this ain't love
+but it's still the same love
+Make love, anything to sate ya
+Don't be shy, you decide
+Say can I, make you mine?
+Don't lie, baby don't lie
+His love never felt right
+Switch sides and I'm beside ya
+If you say it's alright
+(lemme show you
+how it feel like)
+Don't lie, baby don't lie
+His love never felt right
+Switch sides and I'm beside ya
+If you say it's alright
+(Don't lie, baby don't lie)
+(Ahh) Your skin, so fine
+(Ah-ahh, ahh)
+Come close baby put it on mine
+(Ahh) Your skin, so fine
+(Ah-ahh, ahh)
+Come close baby put it on mine
+It's just you
+and I and no other guys
+We got no interruptions
+and we both feelin' the vibe
+Say I'm not your type
+But I know what's on your mind
+We can talk about nothin' or
+we can see what it's like
+No-ohh-ohh, yeah-yeah-yeah
+Don't lie, baby don't lie
+His love never felt right
+Switch sides
+and I'm beside ya
+(Ahh)
+If you say it's alright
+(Ah-ahh, ahh)
+(Lemme show you
+what it feel like)
+(Don't lie, baby don't lie)
+```
