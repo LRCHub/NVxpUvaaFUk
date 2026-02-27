@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "beside you",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-27T14:57:09.048298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Sleep Beside You",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/01_Let_Me_Sleep_Beside_You_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Sleep Beside You - BBC Radio Session D.L.T Show",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Let_Me_Sleep_Beside_You_-_BBC_Radio_Session_D.L.T_Show_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Was the Fool Beside You for Too Long",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/03_I_Was_the_Fool_Beside_You_for_Too_Long_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beside You In Time",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/04_Beside_You_In_Time_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beside You",
+      "artist": "Papas Fritas",
+      "has_synced": false,
+      "path": "select/05_Beside_You_Papas_Fritas.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Walk Beside You",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/06_I_Walk_Beside_You_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "02 I Walk Beside You",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/07_02_I_Walk_Beside_You_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beside You",
+      "artist": "Queensrÿche",
+      "has_synced": false,
+      "path": "select/08_Beside_You_Queensrÿche.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beside You",
+      "artist": "Queensryche",
+      "has_synced": false,
+      "path": "select/09_Beside_You_Queensryche.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Walk Beside You",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/10_I_Walk_Beside_You_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If The Car Beside You Moves Ahead",
+      "artist": "James Blake",
+      "has_synced": false,
+      "path": "select/11_If_The_Car_Beside_You_Moves_Ahead_James_Blake.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beside You",
+      "artist": "Tal Bachman",
+      "has_synced": true,
+      "path": "select/12_Beside_You_Tal_Bachman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let Me Sleep Beside You - BBC Radio Session D.L.T. Show",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/13_Let_Me_Sleep_Beside_You_-_BBC_Radio_Session_D.L.T._Show_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Right Beside You",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": true,
+      "path": "select/14_Right_Beside_You_Sophie_B._Hawkins.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Right Beside You",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": false,
+      "path": "select/15_Right_Beside_You_Sophie_B._Hawkins.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Right Beside You",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": false,
+      "path": "select/16_Right_Beside_You_Sophie_B._Hawkins.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Right Beside You (album version)",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": false,
+      "path": "select/17_Right_Beside_You_(album_version)_Sophie_B._Hawkins.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Right Beside You (LP version)",
+      "artist": "Sophie B. Hawkins",
+      "has_synced": false,
+      "path": "select/18_Right_Beside_You_(LP_version)_Sophie_B._Hawkins.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Prop Me Up Beside the Jukebox (If I Die)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/19_Prop_Me_Up_Beside_the_Jukebox_(If_I_Die)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Prop Me Up Beside The Jukebox (If I Die) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/20_Prop_Me_Up_Beside_The_Jukebox_(If_I_Die)_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Prop Me Up Beside The Jukebox (If I Die) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/21_Prop_Me_Up_Beside_The_Jukebox_(If_I_Die)_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Stand Beside Me",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/22_Stand_Beside_Me_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Beside",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/23_Beside_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Beside",
+      "artist": "Jon & Vangelis",
+      "has_synced": true,
+      "path": "select/24_Beside_Jon_&_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Here Beside Me",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/25_Here_Beside_Me_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Here Beside Me [From Disney's Mulan 2]",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/26_Here_Beside_Me_[From_Disney's_Mulan_2]_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "When My Baby's Beside Me",
+      "artist": "Big Star",
+      "has_synced": true,
+      "path": "select/27_When_My_Baby's_Beside_Me_Big_Star.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Silence Beside Me",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/28_Silence_Beside_Me_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Fall Beside Her",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/29_Fall_Beside_Her_Catatonia.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Beside the Railway Tracks",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/30_Beside_the_Railway_Tracks_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "beside you",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_beside_you_keshi.txt"
+    }
+  ]
+}
